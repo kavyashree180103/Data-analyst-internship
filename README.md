@@ -1,5 +1,9 @@
 DATA CLEANING AND PREPROCESSING 
 
+Data set exported from kaggle.com 
+
+Dataset name:Medical Appointment No Shows
+
 Identified and removed null values using filter function in excel 
 
 Removed duplicate rows using remove duplictae function in excel 
